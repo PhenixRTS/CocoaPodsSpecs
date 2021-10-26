@@ -13,5 +13,5 @@ source 'git@github.com:PhenixRTS/CocoaPodsSpecs.git' # Phenix repository
 
 target 'your app name'
   use_frameworks!
-  pod 'PhenixSdk', '2019.2.0'
+  pod 'PhenixSdk', '2021.0.15'
 ```
